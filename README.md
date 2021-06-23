@@ -1,5 +1,7 @@
 ### Let's the future to be created in Latin America. 🌎
 
+<img align="center"  src="https://github.com/patozavala/patozavala/blob/main/Break%20On%20Through%20by%20Marco%20Melgrati.png">
+
 I'm an engineer passionate about sports and technologies, and overall for leading projects that improve many people's quality of life. Check my open source projects in the repositories ✨.
 
 ## Find me around the web 💻: 
