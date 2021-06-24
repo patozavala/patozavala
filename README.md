@@ -14,4 +14,4 @@ I'm an engineer passionate about sports and technologies, and overall for leadin
 
 🌎 Contributing to science through my research papers in the **Computer Methods in Applied Mechanics and Engineering** journal in <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782521001006"> Accelerating cardiac and vessel mechanics simulations: An energy-transform variational formulation for soft-tissue hyperelasticity </a>
 
-🌎 Creating a NFT gallery in <a href="https://rarible.com/patozavala?tab=owned"> Rarible </a> 
+🌎 Creating a NFT gallery in <a href="https://rarible.com/patozavala?tab=owned"> Rarible </a> and <a href="https://rarible.com/machupicchu"> Machupicchu </a>
