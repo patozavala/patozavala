@@ -6,9 +6,7 @@ I'm an engineer passionate about sports and technologies, and overall for leadin
 
 ## Find me around the web 💻: 
 
-🌎 Talking about the future in <a href="https://www.instagram.com/latamtalks/"> LatamTalks </a>  
-
-🌎 Sharing content and learnings in <a href="https://patozavala.com/"> patozavala.com </a> or <a href="https://www.instagram.com/patozavala.f/"> @patozavala.f </a> 
+🌎 Sharing content and learnings in <a href="https://www.instagram.com/patozavala.f/"> @patozavala.f </a> 
 
 🌎 Check the projects with social impact in which I have participated in <a href="https://vidauniversitaria.uc.cl/noticias-noticias-y-concursos/patricio-zavala-peldano-a-peldano-mejorando-la-vida-de-familias-portenas"> VivelaUC </a>, and <a href="https://isf-chile.org/portfolio/escalera-vista-al-mar/"> Staircase Project (IEDIEG) </a>.
 
