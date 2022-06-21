@@ -6,7 +6,7 @@ I'm an engineer passionate about sport, crypto, and coffee, and above all for le
 
 ## Find me around the web 💻: 
 
-🌎 Sharing content and learnings in <a href="https://www.instagram.com/patozavala.f/"> @patozavala.f </a>.
+🌎 Sharing high quality crypto content in <a href="https://www.patozavala.com"> patozavala.com </a>.
 
 🌎 Runing one of the first crypto coffee shop in Latin America at <a href="https://blog.cafinca.org"> blog.cafinca.org </a>.
 
